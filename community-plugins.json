@@ -36300,5 +36300,12 @@
     "author": "Rayvven",
     "description": "A Pinterest-style vertical scrolling board for the images and videos in a folder. Point it at a folder, scroll, and optionally attach a note to any pin. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "rayvven/obsidian-pin-board"
+  },
+  {
+    "id": "markdown-mindmap",
+    "name": "Markdown Mindmap",
+    "author": "Kiko Castro",
+    "description": "Render configurable, leveled left-to-right mind maps from your notes' frontmatter links.",
+    "repo": "kikocastro/markdown-mindmap"
   }
 ]
